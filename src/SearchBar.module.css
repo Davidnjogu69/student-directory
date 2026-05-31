@@ -1,0 +1,14 @@
+.search {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+.search input {
+  flex: 1;
+  padding: 10px;
+}
+
+.search button {
+  padding: 10px 15px;
+}
