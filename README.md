@@ -35,7 +35,6 @@ npm run dev
 
 ```text
 src/
-├── components/
 │   ├── Header/
 │   ├── SearchBar/
 │   └── StudentCard/
